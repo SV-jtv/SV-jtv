@@ -1,23 +1,15 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A3FF7&background=C8B9FF11&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=7A3FF7&background=C8B9FF11&center=true&vCenter=true&width=540&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 # 👩‍💻 Saray Varela  
 
-🎓 **Tècnica Superior en Desenvolupament d'Aplicacions Multiplataforma (DAM)**  
-💡 Apassionada per la tecnologia i el desenvolupament de programari.  
-🌱 Aprenent i millorant en **Kotlin, Python, JavaScript, SQL i NoSQL**
-🤝 Oberta a col·laborar en projectes open source i treball en equip
-✨ M’agrada **resoldre problemes, aprendre coses noves i compartir coneixement**
-
----
-
-## 🌟 Sobre mi  
-Soc tècnica informàtica, en procés de completar el grau superior.  
-M’agraden les tasques variades, treballar en grup i aprendre contínuament.  
-Em defineixo com a **resolutiva, sociable i adaptable**, amb ganes de créixer professionalment.  
+- 🎓 **Tècnica Superior en Desenvolupament d'Aplicacions Multiplataforma (DAM)**  
+- 💡 Apassionada per la tecnologia i el desenvolupament de programari.
+- 🌱 Aprenent i millorant en **Kotlin, Python, JavaScript, SQL i NoSQL**
+- 🤝 Oberta a col·laborar en projectes open source i treball en equip
+- ✨ M’agrada **resoldre problemes, aprendre coses noves i compartir coneixement** 
+- 💬 Em defineixo com a **resolutiva, sociable i adaptable**, amb ganes de créixer professionalment.  
 
 ---
 
