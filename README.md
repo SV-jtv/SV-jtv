@@ -71,9 +71,9 @@
 [![Saray's GitHub stats](https://github-readme-stats.vercel.app/api?username=SV-jtv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SV-jtv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=SV-jtv&theme=dracula&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophy graph"  />
-</div>
+</div> -->
 
 ---
 
